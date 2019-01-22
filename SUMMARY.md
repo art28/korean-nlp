@@ -2,7 +2,15 @@
 
 * [Korean NLP](README.md)
 
+## Dataset
+
+* [Dataset](dataset/dataset.md)
+
 ## Preprocess
 
-* [Introduction](preprocess/contents.md)
+* [Preprocess](preprocess/preprocess.md)
+
+## Encoding
+
+* [Encoding](encoding/encoding.md)
 

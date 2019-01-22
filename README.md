@@ -6,8 +6,10 @@ description: 한국어 자연어 처리에 필요한 툴과 팁 정리
 
 ## Contents
 
-1. \*\*\*\*[Preprocess](https://art28.gitbook.io/korean-nlp/preprocess/contents)
-2. 3. 4. 
+1. \*\*\*\*[**Datasets**](dataset/dataset.md)
+2. \*\*\*\*[**Preprocess**](preprocess/preprocess.md)\*\*\*\*
+3. \*\*\*\*[**Encoding**](encoding/encoding.md)\*\*\*\*
+4. 5. 
 
 
 
