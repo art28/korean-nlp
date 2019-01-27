@@ -5,6 +5,7 @@
 ## Dataset
 
 * [Dataset](dataset/dataset.md)
+* [말뭉치](dataset/undefined.md)
 
 ## Preprocess
 
