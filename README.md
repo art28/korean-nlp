@@ -6,11 +6,17 @@ description: 한국어 자연어 처리에 필요한 툴과 팁 정리
 
 ## Contents
 
-1. \*\*\*\*[**Datasets**](dataset/dataset.md)
+1. \*\*\*\*[**Datasets**](dataset/dataset/)
 2. \*\*\*\*[**Preprocess**](preprocess/preprocess.md)\*\*\*\*
 3. \*\*\*\*[**Encoding**](encoding/encoding.md)\*\*\*\*
 4. 5. 
 
+
+### References
+
+{% embed url="https://github.com/datanada/Awesome-Korean-NLP\#2.-Dataset" %}
+
+{% embed url="https://github.com/insikk/awesome-korean-nlp\#dataset" %}
 
 
 
