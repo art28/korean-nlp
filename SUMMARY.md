@@ -14,9 +14,18 @@
 
 ## Preprocess
 
-* [Preprocess](preprocess/preprocess.md)
+* [Normalization](preprocess/normalization/README.md)
+  * [Stemming](preprocess/normalization/stemming.md)
+  * [Lemmatization](preprocess/normalization/lemmatization.md)
+  * [Stop words](preprocess/normalization/stop-words.md)
 
 ## Encoding
 
-* [Encoding](encoding/encoding.md)
+* [Sentence Embedding](encoding/sentence-embedding/README.md)
+  * [BoW](encoding/sentence-embedding/bow.md)
+  * [Tf-Idf](encoding/sentence-embedding/tf-idf.md)
+  * [Distributed](encoding/sentence-embedding/distributed/README.md)
+    * [W2V](encoding/sentence-embedding/distributed/w2v.md)
+    * [Fasttext](encoding/sentence-embedding/distributed/fasttext.md)
+    * [BERT](encoding/sentence-embedding/distributed/bert.md)
 
