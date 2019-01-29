@@ -18,6 +18,7 @@
   * [Stemming](preprocess/normalization/stemming.md)
   * [Lemmatization](preprocess/normalization/lemmatization.md)
   * [Stop words](preprocess/normalization/stop-words.md)
+* [Regular Expression Tips](preprocess/regular-expression-tips.md)
 
 ## Encoding
 
